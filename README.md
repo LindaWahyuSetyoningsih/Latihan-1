@@ -7,8 +7,9 @@ TUTORIAL
 MENGGUNAKAN GITHUB
 
 
-1.     Silahkanbuka website resminya Git (git-scm.com). Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
-
+1.     Silahkan buka website resminya Git (git-scm.com). 
+Kemudian unduh Git sesuai dengan arsitektur komputer kita. 
+Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
 
 
@@ -133,11 +134,13 @@ latihan1
 
 
  
+ 
 15.     Untuk membuat Reposiory Server. Masuk ke website https://github.com/ .
 
 
 
 Lalu klik ikon pojok kanan atas (+) dan klik new reposiory .
+
 
 
 
@@ -159,14 +162,18 @@ ketiklah
 
 
 
+
+
 $ git push -u origin master
 
 
 ![10c](https://user-images.githubusercontent.com/56390857/67142848-7b09dd80-f28f-11e9-8db1-24f69c131420.JPG)
 
 
-18.     Untuk melihat perubahannya, masuk ke github lalu ke
-reposiory. Akan muncul seperti berikut.
+
+
+
+18.     Untuk melihat perubahannya, masuk ke github lalu ke reposiory. Akan muncul seperti berikut.
 
 
 ![13](https://user-images.githubusercontent.com/56390857/67141281-d4700d80-f28b-11e9-9d61-5cc6d2a7f485.png)
